@@ -1,6 +1,6 @@
 export const ROLES =   [{
     name: 'mafia',
-    number: 2
+    number: 4
 },
 {
     name: 'godfather',
