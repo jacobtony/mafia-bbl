@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/mafia-game-bbl/static/css/main.40f80c40.css",
-    "main.js": "/mafia-game-bbl/static/js/main.42db9524.js",
+    "main.js": "/mafia-game-bbl/static/js/main.77522bb8.js",
     "static/js/453.cac720c3.chunk.js": "/mafia-game-bbl/static/js/453.cac720c3.chunk.js",
     "index.html": "/mafia-game-bbl/index.html",
     "main.40f80c40.css.map": "/mafia-game-bbl/static/css/main.40f80c40.css.map",
-    "main.42db9524.js.map": "/mafia-game-bbl/static/js/main.42db9524.js.map",
+    "main.77522bb8.js.map": "/mafia-game-bbl/static/js/main.77522bb8.js.map",
     "453.cac720c3.chunk.js.map": "/mafia-game-bbl/static/js/453.cac720c3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.40f80c40.css",
-    "static/js/main.42db9524.js"
+    "static/js/main.77522bb8.js"
   ]
 }
