@@ -14,7 +14,7 @@ export default function Players( { players, onAddNewPlayer } ){
                 </h5>
                 
             }) }
-            <input placeholder="Enter Player Name" name="newPlayer" onBlur={ onAddNewPlayer }/> 
+            <input className="playerInput" placeholder="Player Name" name="newPlayer" onBlur={ onAddNewPlayer }/> 
         
         </>
         

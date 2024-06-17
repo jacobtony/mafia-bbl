@@ -22,23 +22,30 @@ code {
 .app-content{
   justify-content: space-around;
   li{
-    
+    width: 100px;
     
     h2, h5{
       display: grid;
       justify-content: left;
+    }
+    .playerInput{
+      width: 100%;
     }
   }
   .roles{
     list-style: none;
     padding: 0;
     li{
+      
         display: flex;
         justify-content: left; 
         margin: 20px 0px;
         .roleName{
-          display: flex;
-          width: 100px;
+          display: inline-block;
+          min-width: 80%;
+        }
+        .roleInput{
+          width: 30px;
         }
     }
   }

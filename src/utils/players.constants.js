@@ -1,49 +1,49 @@
 export const PLAYERS = [ {
     name: 'jacob',
-    displayName: 'Jacob Tony'
+    displayName: 'Jacob'
 },
 {
     name: 'alsa',
-    displayName: 'Alsa Suresh'
+    displayName: 'Alsa'
 },
 {
     name: 'nandithau',
-    displayName: 'Nanditha Unnikrishnan'
+    displayName: 'Nanditha U'
 },
 {
     name: 'jayadev',
-    displayName: 'Jayadev E'
+    displayName: 'Jayadev'
 },
 {
     name: 'harik',
-    displayName: 'Harikrishnan Suresh'
+    displayName: 'Harikrishnan'
 },
 {
     name: 'sai',
-    displayName: 'Sai Sree Nambiar'
+    displayName: 'Sai Sree'
 },
 {
     name: 'rohit',
-    displayName: 'Rohit S Nambiar'
+    displayName: 'Rohit'
 },
 {
     name: 'nandithap',
-    displayName: 'Nanditha Pillai'
+    displayName: 'Nanditha P'
 },
 {
     name: 'robi',
-    displayName: 'Robi Thomas'
+    displayName: 'Robi'
 },
 {
     name: 'ashin',
-    displayName: 'Ashin Antony'
+    displayName: 'Ashin'
 },
 {
     name: 'nirmal',
-    displayName: 'Nirmal Suresh'
+    displayName: 'Nirmal'
 },
 {
     name: 'boney',
-    displayName: 'Boney Biju Philip'
+    displayName: 'Boney'
 }
 ]
